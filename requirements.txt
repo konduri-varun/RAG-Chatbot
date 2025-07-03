@@ -1,1 +1,12 @@
+streamlit
+langchain
+langchain-community
+langchain-google-genai
+PyPDF2
+pandas
+docx
+requests
+beautifulsoup4
+faiss-cpu
+bcrypt
 
