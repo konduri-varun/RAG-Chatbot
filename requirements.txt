@@ -4,10 +4,8 @@ langchain-community
 langchain-google-genai
 PyPDF2
 pandas
-docx
+python-docx
 requests
 beautifulsoup4
-import exceptions
-
 faiss-cpu
 bcrypt
