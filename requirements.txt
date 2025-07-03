@@ -7,6 +7,7 @@ pandas
 docx
 requests
 beautifulsoup4
+import exceptions
+
 faiss-cpu
 bcrypt
-
