@@ -79,7 +79,7 @@ streamlit run login.py
 ```
 rag-chatbot/
 ├── assets/
-│   └── <img width="1914" height="814" alt="image" src="https://github.com/user-attachments/assets/58aa4c1f-1fb9-4a4c-8cb3-8de9b2a564de" />       # ← Add your UI screenshot here
+│   └── ui_screenshot.png       # ← Add your UI screenshot here
 ├── login.py
 ├── main.py
 ├── config.py
